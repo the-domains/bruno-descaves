@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bruno Descaves]]></title>
+        <description><![CDATA[Bruno Descaves]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 23:15:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Esta
+dissertação visa refletir sobre o objeto manipulado</p>]]></description>
+            <link>undefinedesta-dissertacao-visa-refletir-sobre-o-objeto-manipulado/index.html</link>
+            <guid isPermaLink="false">3f8863c8-98c5-4515-99f4-9881bb1b1067</guid>
+            <pubDate>Tue, 03 May 2016 23:15:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
